@@ -422,8 +422,8 @@ char off_resp[] = "<!DOCTYPE html><html><head><style type=\"text/css\">html {  f
 static const char *TAG = "espressif"; // TAG for debug
 
 
-#define EXAMPLE_ESP_WIFI_SSID "hwa"
-#define EXAMPLE_ESP_WIFI_PASS "wifi1373"
+#define EXAMPLE_ESP_WIFI_SSID "your wifi"
+#define EXAMPLE_ESP_WIFI_PASS "pass"
 #define EXAMPLE_ESP_MAXIMUM_RETRY 5
 
 /* FreeRTOS event group to signal when we are connected*/
